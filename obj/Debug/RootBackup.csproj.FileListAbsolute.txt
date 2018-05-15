@@ -1,0 +1,12 @@
+C:\Users\Jeremy Blevins\Documents\Important\Programming\C#\RootBackup\RootBackup\bin\Debug\RootBackup.exe.config
+C:\Users\Jeremy Blevins\Documents\Important\Programming\C#\RootBackup\RootBackup\bin\Debug\RootBackup.exe
+C:\Users\Jeremy Blevins\Documents\Important\Programming\C#\RootBackup\RootBackup\bin\Debug\RootBackup.pdb
+C:\Users\Jeremy Blevins\Documents\Important\Programming\C#\RootBackup\RootBackup\obj\Debug\RootBackup.csprojResolveAssemblyReference.cache
+C:\Users\Jeremy Blevins\Documents\Important\Programming\C#\RootBackup\RootBackup\obj\Debug\RootBackup.Form1.resources
+C:\Users\Jeremy Blevins\Documents\Important\Programming\C#\RootBackup\RootBackup\obj\Debug\RootBackup.Properties.Resources.resources
+C:\Users\Jeremy Blevins\Documents\Important\Programming\C#\RootBackup\RootBackup\obj\Debug\RootBackup.csproj.GenerateResource.Cache
+C:\Users\Jeremy Blevins\Documents\Important\Programming\C#\RootBackup\RootBackup\obj\Debug\RootBackup.exe
+C:\Users\Jeremy Blevins\Documents\Important\Programming\C#\RootBackup\RootBackup\obj\Debug\RootBackup.pdb
+C:\Users\Jeremy Blevins\Documents\Important\Programming\C#\RootBackup\RootBackup\obj\Debug\RootBackup.Settings.resources
+C:\Users\Jeremy Blevins\Documents\Important\Programming\C#\RootBackup\RootBackup\obj\Debug\RootBackup.Schedule.resources
+C:\Users\Jeremy Blevins\Documents\Important\Programming\C#\RootBackup\RootBackup\obj\Debug\RootBackup.Login.resources
